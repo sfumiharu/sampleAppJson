@@ -1,7 +1,7 @@
 {
 "root":[
       "secondRoot":[{
-                  "sectionTitle":"UITesting on web view",
+                  "sectionTitle":"UITesting on web view1",
                   "detailSection":[{
                         "cellText0":"Execute js test",
                         "cellText1":"Execute js test2"
