@@ -1,6 +1,5 @@
 {
-"root":{
-      "secondRoot":[{
+"root":[{
                   "sectionTitle":"UITesting on web view1",
                   "detailSection":[{
                         "cellText0":"Execute js test",
@@ -13,7 +12,6 @@
                         "cellText0":"Execute js test22",
                         "cellText1":"Execute js test23"
                                     }]
-                  }]
-      }
+      }]
 }
 
