@@ -3,15 +3,15 @@
       "secondRoot":[{
         "sectionTitle":"UITesting on web view",
         "detailSection":[{
-                        "cellText":"Execute js test",
-                        "cellText":"Execute js test2",
+                        "cellText0":"Execute js test",
+                        "cellText1":"Execute js test2"
                         }]
       },
       {
         "sectionTitle":"UITesting on web view2",
         "detailSection":[{
-                        "cellText":"Execute js test22",
-                        "cellText":"Execute js test23",
+                        "cellText0":"Execute js test22",
+                        "cellText1":"Execute js test23"
                         }]
         }]
         ]
