@@ -1,19 +1,19 @@
 {
 "root":[
       "secondRoot":[{
-        "sectionTitle":"UITesting on web view",
-        "detailSection":[{
+                  "sectionTitle":"UITesting on web view",
+                  "detailSection":[{
                         "cellText0":"Execute js test",
                         "cellText1":"Execute js test2"
-                        }]
-      },
-      {
-        "sectionTitle":"UITesting on web view2",
-        "detailSection":[{
+                                    }]
+                  },
+                  {
+                  "sectionTitle":"UITesting on web view2",
+                  "detailSection":[{
                         "cellText0":"Execute js test22",
                         "cellText1":"Execute js test23"
-                        }]
-        }]
+                                    }]
+                  }]
         ]
 }
 
