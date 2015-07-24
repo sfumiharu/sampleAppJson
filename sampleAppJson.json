@@ -7,8 +7,10 @@
         },
         {
         "sectionTitle":"UITesting on table view",
-        "detailSection":[{
-                        "cellData":"Execute custom cell test",
+        "detailSection":{
+                        "cellData":"Execute custom cell test"
+                        },
+        "tapCellData":{
                         "detailView":[{
                                     "detailSectionTitle":"section0",
                                     "cellData0":"section0-0",
@@ -21,7 +23,7 @@
                                     "cellData1":"section1-1",
                                     "btnLabel":"section1-btn"
                                     }]
-                        }]
+                        }
         }]
 }
 
