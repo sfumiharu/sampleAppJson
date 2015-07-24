@@ -1,6 +1,6 @@
 {
 "root":{
-        sec:[{
+        "sec":[{
                 "sectionTitle":"UITesting on web view",
                 "detailSection":"Execute js test"
                 },
