@@ -1,17 +1,25 @@
 {
 "root":[{
-                  "sectionTitle":"UITesting on web view1",
+                  "sectionTitle":"UITesting on web view",
                   "detailSection":[{
-                        "cellText0":"Execute js test",
-                        "cellText1":"Execute js test2"
+                                  "cellData":"Execute js test"
                                     }]
                   },
                   {
-                  "sectionTitle":"UITesting on web view2",
+                  "sectionTitle":"UITesting on table view",
                   "detailSection":[{
-                        "cellText0":"Execute js test22",
-                        "cellText1":"Execute js test23"
+                                  "cellData":"Execute custom cell test"
+                                  "detailView":[{
+                                                "detailSectionTitle":"section0"
+                                                "cellData0":"section0-0",
+                                                "cellData1":"section0-1"
+                                                },
+                                                {
+                                                "detailSectionTitle":"section1"
+                                                "cellData0":"section1-0",
+                                                "cellData1":"section1-1"
+                                                }]
                                     }]
-      }]
+                    }]
 }
 
