@@ -1,9 +1,9 @@
 {
 "root":[{
                   "sectionTitle":"UITesting on web view",
-                  "detailSection":[{
+                  "detailSection":{
                                   "cellData":"Execute js test"
-                                    }]
+                                    }
                   },
                   {
                   "sectionTitle":"UITesting on table view",
