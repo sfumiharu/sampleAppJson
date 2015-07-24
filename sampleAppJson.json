@@ -8,7 +8,7 @@
                   {
                   "sectionTitle":"UITesting on table view",
                   "detailSection":[{
-                                  "cellData":"Execute custom cell test"
+                                  "cellData":"Execute custom cell test",
                                   "detailView":[{
                                                 "detailSectionTitle":"section0",
                                                 "cellData0":"section0-0",
