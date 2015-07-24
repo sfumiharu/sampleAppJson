@@ -1,27 +1,27 @@
 {
 "root":[{
-                  "sectionTitle":"UITesting on web view",
-                  "detailSection":[
-                                  "cellData":"Execute js test"
-                                    ]
-                  },
-                  {
-                  "sectionTitle":"UITesting on table view",
-                  "detailSection":[{
-                                  "cellData":"Execute custom cell test",
-                                  "detailView":[{
-                                                "detailSectionTitle":"section0",
-                                                "cellData0":"section0-0",
-                                                "cellData1":"section0-1",
-                                                "btnLabel":"section0-btn"
-                                                },
-                                                {
-                                                "detailSectionTitle":"section1",
-                                                "cellData0":"section1-0",
-                                                "cellData1":"section1-1",
-                                                "btnLabel":"section1-btn"
-                                                }]
+        "sectionTitle":"UITesting on web view",
+        "detailSection":{
+                        "cellData":"Execute js test"
+                        }
+        },
+        {
+        "sectionTitle":"UITesting on table view",
+        "detailSection":[{
+                        "cellData":"Execute custom cell test",
+                        "detailView":[{
+                                    "detailSectionTitle":"section0",
+                                    "cellData0":"section0-0",
+                                    "cellData1":"section0-1",
+                                    "btnLabel":"section0-btn"
+                                    },
+                                    {
+                                    "detailSectionTitle":"section1",
+                                    "cellData0":"section1-0",
+                                    "cellData1":"section1-1",
+                                    "btnLabel":"section1-btn"
                                     }]
-                    }]
+                        }]
+        }]
 }
 
