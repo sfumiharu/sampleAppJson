@@ -2,7 +2,8 @@
 "root":{
         "sec":[{
                 "sectionTitle":"UITesting on web view",
-                "detailSection":"Execute js test"
+                "detailSection":"Execute js test",
+                "bbbb":"bbb"
                 },
                 {
                 "sectionTitle":"UITesting on table view",
