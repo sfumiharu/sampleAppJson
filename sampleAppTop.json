@@ -1,15 +1,30 @@
 {
 "sec":[{
         "sectionTitle":"UITesting on web view",
-        "detailSection":"Execute js test"
+        "detailSection":{
+                        "cellData":[{
+                                "cellTitle":"Execute js test"
+                                }]
+                        }
         },
         {
         "sectionTitle":"UITesting on table view",
-        "detailSection":"Execute custom cell test"
+        "detailSection":{
+                        "cellData":[{
+                                "cellTitle":"Execute custom cell test"
+                                }]
+                        }
         },
         {
         "sectionTitle":"UITesting on camera rool",
-        "detailSection":"Press system alert test"
+        "detailSection":{
+                        "cellData":[{
+                                "cellTitle":"Press system alert test"
+                                },
+                                {
+                                "cellTitle":"Select image in camera rool"
+                                }]
+                        }
         }],
 "detailCustomCellTest":[{
                         "detailSectionTitle":"section0",
