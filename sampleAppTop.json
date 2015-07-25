@@ -2,26 +2,23 @@
 "root":{
         "sec":[{
                 "sectionTitle":"UITesting on web view",
-                "detailSection":"Execute js test",
-                "bbbb":"bbb"
+                "detailSection":"Execute js test"
                 },
                 {
                 "sectionTitle":"UITesting on table view",
-                "detailSection":"Execute custom cell test",
-                "tapCellData":{
-                                "aaa":[{
-                                        "detailSectionTitle":"section0",
-                                        "cellData0":"section0-0",
-                                        "cellData1":"section0-1",
-                                        "btnLabel":"section0-btn"
-                                        },
-                                        {
-                                        "detailSectionTitle":"section1",
-                                        "cellData0":"section1-0",
-                                        "cellData1":"section1-1",
-                                        "btnLabel":"section1-btn"
-                                        }]
-                                }
-        }]
+                "detailSection":"Execute custom cell test"
+                }],
+        "tapCellData":[{
+                        "detailSectionTitle":"section0",
+                        "cellData0":"section0-0",
+                        "cellData1":"section0-1",
+                        "btnLabel":"section0-btn"
+                        },
+                        {
+                        "detailSectionTitle":"section1",
+                        "cellData0":"section1-0",
+                        "cellData1":"section1-1",
+                        "btnLabel":"section1-btn"
+                        }]
         }
 }
