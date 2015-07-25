@@ -13,14 +13,14 @@
                                 "lbl0":"section0-0",
                                 "lbl1":"section0-1",
                                 "btnLbl":"section0-btn"
-                                },
+                                }
+                        },
                         {
                         "detailSectionTitle":"section1",
                         "cellData":{
                                 "lbl0":"section1-0",
                                 "lbl1":"section1-1",
                                 "btnLbl":"section1-btn"
-                        }
-                        }
+                                }
                         }]
 }
