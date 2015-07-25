@@ -22,10 +22,10 @@
                         },
                         {
                         "detailSectionTitle":"section1",
-                        "cellData":{
+                        "cellData":[{
                                 "lbl0":"section1-0-0",
                                 "lbl1":"section1-0-1",
                                 "btnLbl":"section1-btn"
-                                }
+                                }]
                         }]
 }
