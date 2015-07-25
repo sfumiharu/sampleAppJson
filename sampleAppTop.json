@@ -1,15 +1,15 @@
 {
 "sec":[{
         "sectionTitle":"UITesting on web view",
-        "detailSection":"Execute js test"
+        "detailSection":[{"Execute js test"}]
         },
         {
         "sectionTitle":"UITesting on table view",
-        "detailSection":"Execute custom cell test"
+        "detailSection":[{"Execute custom cell test"}]
         },
         {
         "sectionTitle":"UITesting on camera rool",
-        "detailSection":"Press system alert test", "aaa"
+        "detailSection":[{"Press system alert test", "aaa"}]
         }],
 "detailCustomCellTest":[{
                         "detailSectionTitle":"section0",
