@@ -6,6 +6,10 @@
         {
         "sectionTitle":"UITesting on table view",
         "detailSection":"Execute custom cell test"
+        },
+        {
+        "sectionTitle":"UITesting on camera rool",
+        "detailSection":"Press system alert"
         }],
 "detailCustomCellTest":[{
                         "detailSectionTitle":"section0",
