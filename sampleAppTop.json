@@ -9,7 +9,7 @@
         },
         {
         "sectionTitle":"UITesting on camera rool",
-        "detailSection":[{"Press system alert test", "aaa"}]
+        "detailSection":{"Press system alert test", "aaa"}
         }],
 "detailCustomCellTest":[{
                         "detailSectionTitle":"section0",
